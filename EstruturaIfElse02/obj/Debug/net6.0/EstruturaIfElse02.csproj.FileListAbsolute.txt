@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\bin\Debug\net6.0\EstruturaIfElse02.exe
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\bin\Debug\net6.0\EstruturaIfElse02.deps.json
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\bin\Debug\net6.0\EstruturaIfElse02.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\bin\Debug\net6.0\EstruturaIfElse02.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\bin\Debug\net6.0\EstruturaIfElse02.pdb
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\EstruturaIfElse02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\EstruturaIfElse02.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\EstruturaIfElse02.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\EstruturaIfElse02.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\EstruturaIfElse02.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\refint\EstruturaIfElse02.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\EstruturaIfElse02.pdb
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\EstruturaIfElse02.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaIfElse02\obj\Debug\net6.0\ref\EstruturaIfElse02.dll

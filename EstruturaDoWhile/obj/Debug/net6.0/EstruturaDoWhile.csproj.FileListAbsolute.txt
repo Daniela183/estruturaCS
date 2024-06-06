@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.exe
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.deps.json
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.pdb
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\refint\EstruturaDoWhile.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.pdb
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaDoWhile\obj\Debug\net6.0\ref\EstruturaDoWhile.dll

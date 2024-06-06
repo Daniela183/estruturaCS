@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaIf01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D21758-F3DE-4547-9A1D-544726A6152F}|..\\EstruturaBreakContinue01\\EstruturaBreakContinue01.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturabreakcontinue01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B605CBE3-A433-4B16-87EF-9C6CDDD18D58}|EstruturaIf01.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturaif01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B605CBE3-A433-4B16-87EF-9C6CDDD18D58}|EstruturaIf01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4319E771-9F3F-43FC-AD49-B9BF9EB9787C}|..\\EstruturaFor02\\EstruturaFor02.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturafor02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A703E65-273D-48A0-8828-7B63620DCD9F}|..\\EstruturaFor01\\EstruturaFor01.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturafor01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F463AE36-A2C3-4988-95B7-5FDA21446B59}|..\\EstruturaWhile02\\EstruturaWhile02.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturawhile02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC4F52D-3D87-48E0-A491-50EFE76E2CE8}|..\\EstruturaDoWhile\\EstruturaDoWhile.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturadowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C67B28-E70E-42D6-8DAE-F870ACDD888C}|..\\EstruturaRepeticao01\\EstruturaRepeticao01.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturarepeticao01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC9FDA-70C4-4CAC-9AFC-5948F5C676BC}|..\\EstruturaIfElse02\\EstruturaIfElse02.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturaifelse02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4A6B3-9EFE-4136-98FB-E8F079BAD19A}|..\\EstruturaSwitch02\\EstruturaSwitch02.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturaswitch02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89E15D6-8362-4116-BD3C-78164256A8E6}|..\\EstruturaIfElseIf03\\EstruturaIfElseIf03.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturaifelseif03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05781688-2DF2-467C-9557-4E7618C431B3}|..\\EstruturaSwitch01\\EstruturaSwitch01.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\estruturaswitch01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4F31C6-0CC3-4295-9E6A-021A1244246D}|..\\InstrucaoWhile01\\EstruturaWhile01.csproj|c:\\users\\danie\\desktop\\cursoc#\\estruturacs\\instrucaowhile01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaBreakContinue01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaBreakContinue01\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaBreakContinue01\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaBreakContinue01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:31:18.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaFor02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaFor02\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaFor02\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaFor02\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:40:58.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaFor01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaFor01\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaFor01\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaFor01\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:40:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaDoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaDoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaDoWhile\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaDoWhile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:27:19.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaWhile02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaWhile02\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaWhile02\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaWhile02\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:04:14.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\InstrucaoWhile01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InstrucaoWhile01\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\InstrucaoWhile01\\Program.cs",
+              "RelativeToolTip": "..\\InstrucaoWhile01\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:59:07.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaIf01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaIf01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:12:34.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaRepeticao01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaRepeticao01\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaRepeticao01\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaRepeticao01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:50:09.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaSwitch02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaSwitch02\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaSwitch02\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaSwitch02\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:57:56.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaSwitch01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaSwitch01\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaSwitch01\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaSwitch01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:35:49.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaIfElseIf03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaIfElseIf03\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaIfElseIf03\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaIfElseIf03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:04:34.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaIfElse02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaIfElse02\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\estruturaCS\\EstruturaIfElse02\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaIfElse02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:51:44.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

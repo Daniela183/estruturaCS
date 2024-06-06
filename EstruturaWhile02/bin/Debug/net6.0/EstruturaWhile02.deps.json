@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EstruturaWhile02/1.0.0": {
+        "runtime": {
+          "EstruturaWhile02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstruturaWhile02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

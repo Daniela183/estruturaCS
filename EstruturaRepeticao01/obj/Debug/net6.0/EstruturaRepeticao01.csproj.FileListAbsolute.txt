@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\bin\Debug\net6.0\EstruturaRepeticao01.exe
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\bin\Debug\net6.0\EstruturaRepeticao01.deps.json
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\bin\Debug\net6.0\EstruturaRepeticao01.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\bin\Debug\net6.0\EstruturaRepeticao01.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\bin\Debug\net6.0\EstruturaRepeticao01.pdb
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\EstruturaRepeticao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\EstruturaRepeticao01.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\EstruturaRepeticao01.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\EstruturaRepeticao01.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\EstruturaRepeticao01.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\refint\EstruturaRepeticao01.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\EstruturaRepeticao01.pdb
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\EstruturaRepeticao01.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaRepeticao01\obj\Debug\net6.0\ref\EstruturaRepeticao01.dll

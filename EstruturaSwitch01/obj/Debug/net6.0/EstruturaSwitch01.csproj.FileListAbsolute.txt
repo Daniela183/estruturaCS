@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\bin\Debug\net6.0\EstruturaSwitch01.exe
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\bin\Debug\net6.0\EstruturaSwitch01.deps.json
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\bin\Debug\net6.0\EstruturaSwitch01.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\bin\Debug\net6.0\EstruturaSwitch01.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\bin\Debug\net6.0\EstruturaSwitch01.pdb
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\EstruturaSwitch01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\EstruturaSwitch01.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\EstruturaSwitch01.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\EstruturaSwitch01.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\EstruturaSwitch01.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\refint\EstruturaSwitch01.dll
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\EstruturaSwitch01.pdb
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\EstruturaSwitch01.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\estruturaCS\EstruturaSwitch01\obj\Debug\net6.0\ref\EstruturaSwitch01.dll
